@@ -1,0 +1,16 @@
+@media print {
+  body {
+    visibility: hidden;
+  }
+  .LPP {
+    visibility: visible;
+    overflow-y: visible !important;
+    overflow-x: hidden;
+    padding: 0 !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+    /* position: fixed !important;
+    left: 0;
+    top: 0; */
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077099428914",
+    "project_id": "p3l-notif",
+    "storage_bucket": "p3l-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077099428914:android:4396a2196ed7d31c9a902b",
+        "android_client_info": {
+          "package_name": "com.example.atma_kitchen_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB397itiuLyEuNDvjZR93Sb1PQLTAF93p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
